@@ -1,5 +1,5 @@
 # NewBorn
-<img width="918" height="336" alt="vqvqbqb" src="https://github.com/user-attachments/assets/53db5342-7606-4338-b401-450deb1ba559" />
+
 <img width="2495" height="1358" alt="newborn_gis" src="https://github.com/user-attachments/assets/5a2f81a5-fb44-434c-aec9-b1ebdbb5dfa7" />
 
 A live GIS visualization of **where babies are being born** around the world.
